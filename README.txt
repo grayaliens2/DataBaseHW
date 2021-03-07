@@ -1,6 +1,6 @@
 This is a repo for 3287 DataBase Systems
 
-Homework 1 was organizing data in 3rd normal for.
+Homework 1 was organizing data in 3rd normal form.
 
 Homework 2 was using that data to construct a diagram in mysqlworkbench.
 
